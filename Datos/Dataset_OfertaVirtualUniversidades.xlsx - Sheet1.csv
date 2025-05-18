@@ -1,0 +1,929 @@
+nombreUniversidad,sector,provincia,nombreCarrera,areaConocimiento,nivel,modalidad,duracionAnios,cantidadCarrerasVirtuales,cantidadAreas,porcentajeOfertaVirtual,observaciones,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Lic. en Ciencias de la Educación a Distancia,Humanidades,Grado,Distancia,4,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Lic. en Filosofía ,Humanidades,Grado,Distancia,4,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Ciclo de Lic. en Educación Física,Humanidades,Grado complementario,Distancia,3 cuatrimestres,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Ciclo de Lic. en Ciencias de la Educación  ,Humanidades,Grado complementario,Distancia,2,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Ciclo de Lic. en Filosofía a Distancia,Humanidades,Grado complementario,Distancia,2,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Ciclo de Profesorado Universitario,Humanidades,Grado complementario,Distancia,3 cuatrimestres,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Ciclo de Lic. en Geografía,Humanidades,Grado complementario,Distancia,2,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Ciclo de Lic. en Letras,Humanidades,Grado complementario,Distancia,2,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Ciclo de Lic. en Historia,Humanidades,Grado complementario,Distancia,2,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Tecnicatura en Entrenamiento Deportivo y Alto Rendimiento,Humanidades,Pregrado,Distancia,2,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Tecnicatura en Periodismo Deportivo,Humanidades,Pregrado,Distancia,2,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Diplomatura en Tutoría para la Educación Secundaria y Superior,Humanidades,Formación complementaria,Distancia,2,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Ciclo de Lic. en Fonoaudilogía,Ciencias de la Salud,Grado complementario,Distancia,2,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Ciclo de Lic. en Obstetricia,Ciencias de la Salud,Grado complementario,Distancia,2,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Ciclo de Lic. en Instrumentación Quirúrgica,Ciencias de la Salud,Grado complementario,Distancia,2,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Lic. en Relaciones Públicas,Cs. Económicas y Sociales,Grado,Distancia,4,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Ciclo de Lic. en Administración Penitenciaria,Cs. Económicas y Sociales,Grado complementario,Distancia,2,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Martillero y Corredor de Comercio,Derecho y Ciencias Políticas,Grado,Distancia,5 cuatrimestres,19,4,,,
+Universidad Cátolica de la Plata,Privada,Buenos Aires,Ciclo de Lic. en Seguridad,Derecho y Ciencias Políticas,Grado complementario,Distancia,2,19,4,,,
+Universidad de Palermo,Privada,Buenos Aires,MBA - Maestría en Dirección de Empresas,Facultad de Negocios,Maestría,Distancia,2,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Administración,Facultad de Negocios,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Administración de Sistemas y Empresas,Facultad de Negocios,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Comercialización: Marketing y Publicidad,Facultad de Negocios,Grado,Distancia o Combinada ,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Comercio Internacional,Facultad de Negocios,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Contador Público,Facultad de Negocios,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Marketing,Facultad de Negocios,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Recursos Humanos,Facultad de Negocios,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Management: Economía y Finanzas,Facultad de Negocios,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Management: Negocios Digitales,Facultad de Negocios,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Management: Analytics,Facultad de Negocios,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Management: Turismo y Hospitalidad,Facultad de Negocios,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Carrera corta: Comercialización y Dirección de Empresas,Facultad de Negocios,Pregrado,Distancia o Combinada ,3,"""+50""",5,,Podés cursar en modalidad online hasta el 50% del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Certificado MasterTrack® en Administración de Empresas,Facultad de Negocios,Educación Continua,Distancia,variable,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Abogacía,Facultad de Derecho,Grado,Distancia o Combinada ,5,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Maestría en Derecho,Facultad de Derecho,Grado,Distancia o Combinada ,2,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Maestría en Derecho con orientación en Derecho de Familia,Facultad de Derecho,Grado,Distancia o Combinada ,2,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Maestría en Derecho con orientación en Derecho Penal,Facultad de Derecho,Grado,Distancia o Combinada ,2,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Maestría en Derecho con orientación en Derecho Constitucional y Derechos Humanos,Facultad de Derecho,Grado,Distancia o Combinada ,2,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Diplomatura de Posgrado en Derecho de Familia,Facultad de Derecho,Formación Complementaria,Distancia o Combinada ,1,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Diplomatura de Posgrado en Derecho Penal,Facultad de Derecho,Formación Complementaria,Distancia o Combinada ,1,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Diplomatura de Posgrado en Derecho Constitucional y Derechos Humanos,Facultad de Derecho,Formación Complementaria,Distancia o Combinada ,1,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Maestría en Derecho con orientación en Derecho Privado Patrimonial,Facultad de Derecho,Formación Complementaria,Distancia o Combinada ,2,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Diplomatura de Posgrado en Derecho de Familia,Facultad de Derecho,Formación Complementaria,Distancia o Combinada ,1,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Gastronomía,Facultad de Negocios,Grado,Combinada,,"""+50""",,,Podés cursar en modalidad online hasta el 50% del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Humanidades y Ciencias Sociales,Facultad de Ciencias Sociales,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Periodismo Digital,Facultad de Ciencias Sociales,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura Periodismo Deportivo,Facultad de Ciencias Sociales,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Relaciones Internacionales,Facultad de Ciencias Sociales,Grado,Distancia o Combinada ,4,"""+50""",5,,Podés cursar en modalidad online algunas materias del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Relaciones Internacionales y Ciencias Políticas,Facultad de Ciencias Sociales,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Psicología (4to año presencial),Facultad de Ciencias Sociales,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Maestría en Psicoterapia Cognitivo Conductual,Facultad de Ciencias Sociales,Posgrado,Distancia,2,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Doctorado en Psicología,Facultad de Ciencias Sociales,Doctorado,Distancia o Combinada ,3-5,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Ingeniería en Ciencia de Datos,Facultad de Ingeniería,Grado,Distancia o Combinada ,5,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Ingeniería Industrial,Facultad de Ingeniería,Grado,Distancia o Combinada ,5,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Ingeniería en Telecomunicaciones,Facultad de Ingeniería,Grado,Distancia o Combinada ,5,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Ingeniería Electrónica,Facultad de Ingeniería,Grado,Distancia o Combinada ,5,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Ingeniería en Informática,Facultad de Ingeniería,Grado,Distancia o Combinada ,5,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Ingeniería en Inteligencia Artificial,Facultad de Ingeniería,Grado,Distancia o Combinada ,5,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Ciberseguridad,Facultad de Ingeniería,Grado,Distancia o Combinada ,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Inteligencia Artificial,Facultad de Ingeniería,Grado,Distancia o Combinada ,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Informática,Facultad de Ingeniería,Grado,Distancia o Combinada ,4 y medio,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Organización de la Producción,Facultad de Ingeniería,Grado,Distancia o Combinada ,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Redes y Comunicación de Datos,Facultad de Ingeniería,Grado,Distancia,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Tecnología de la Información,Facultad de Ingeniería,Grado,Distancia o Combinada ,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Tecnología de la Información (Ciclo de Complementación Curricular),Facultad de Ingeniería,Grado Complementario,Distancia o Combinada ,2,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Analista Universitario en Sistemas,Facultad de Ingeniería,Pregrado,Distancia,2 y medio,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Maestría en Tecnología de la Información,Facultad de Ingeniería,Posgrado,Distancia,2,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Dirección de Comunicación (Programa conjunto con la Lic. en Publicidad y la Lic. en Relaciones Públicas),Facultad de Diseño y Comunicación,Grado,Distancia o Combinada ,4,"""+50""",5,,Ofrece doble titulación,
+Universidad de Palermo,Privada,Buenos Aires,Diseño de Ilustración,Facultad de Diseño y Comunicación,Grado,Distancia o Combinada ,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Diseño de Moda (Diseño Textil e Indumentaria),Facultad de Diseño y Comunicación,Grado,Distancia o Combinada ,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Diseño de Música y Sonido (Programa conjunto con Lic. en Creación Sonora y Producción Digital),Facultad de Diseño y Comunicación,Grado,Distancia o Combinada ,4,"""+50""",5,,Ofrece doble titulación,
+Universidad de Palermo,Privada,Buenos Aires,Diseño Gráfico,Facultad de Diseño y Comunicación,Grado,Distancia o Combinada ,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Diseño Industrial,Facultad de Diseño y Comunicación,Grado,Distancia o Combinada ,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Comunicación Audiovisual,Facultad de Diseño y Comunicación,Grado,Distancia o Combinada ,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Comunicación Digital,Facultad de Diseño y Comunicación,Grado,Distancia o Combinada ,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Creación Sonora,Facultad de Diseño y Comunicación,Grado,Distancia o Combinada ,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Publicidad,Facultad de Diseño y Comunicación,Grado,Distancia o Combinada ,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Relaciones Públicas,Facultad de Diseño y Comunicación,Grado,Distancia o Combinada ,4,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Marketing de la Moda,Facultad de Diseño y Comunicación,Grado,Distancia o Combinada ,3,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Producción de Modas,Facultad de Diseño y Comunicación,Grado,Distancia o Combinada ,3,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Producción Musical,Facultad de Diseño y Comunicación,Grado,Distancia o Combinada ,3,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Diseño (Ciclo de Complementación Curricular),Facultad de Diseño y Comunicación,Grado Complementario,Distancia o Combinada ,1,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Negocios de Diseño y Comunicación (Ciclo de Complementación Curricular),Facultad de Diseño y Comunicación,Grado Complementario,Distancia,1,"""+50""",5,,,
+Universidad de Palermo,Privada,Buenos Aires,Doctorado en Diseño,Facultad de Diseño y Comunicación,Doctorado,Distancia o Combinada ,3-5,"""+50""",5,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Educación,Educación,Grado Complementario,Distancia,"1,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Educación Física,Educación,Grado Complementario,Distancia,"1,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Inglés,Educación,Grado Complementario,Distancia,"1,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Tecnología Educativa,Educación,Grado Complementario,Distancia,2,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Posgrado en Especialización y Gestión Estratégica de Proyectos Educativos,Educación,Posgrado,Distancia,"1,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Planificación y Gestión Estratégica de Proyectos Educativos,Educación,Posgrado,Distancia,1,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Psicopedagogía,Educación,Grado Complementario,Distancia,1,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Periodismo,Comunicación,Grado Complementario,Distancia,"1,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Diseño y Comunicación Transmedia,Comunicación,Grado Complementario,Distancia,"1,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Lic. en Comunicación Social,Comunicación,Grado  ,Distancia,4,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Lic. en Gestión de la Comunicación Estratégica,Comunicación,Grado  ,Distancia,4,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Lic. en Publicidad y Narrativas Digitales,Comunicación,Grado  ,Distancia,4,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Higiene y Seguridad,Ingeniería,Grado Complementario,Distancia,"1,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Tecnicatura en Higiene y Seguridad en el Trabajo,Ingeniería,Pregrado,Distancia,"2,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Especialización en Informatica Forense,Ingeniería,Formación Complementaria,Distancia,9 meses,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Lic. en Ciberseguridad,Ingeniería,Grado,Distancia,4,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Contador Público,Económicas,Grado,Distancia,4,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Lic. en Recursos Humanos,Económicas,Grado,Distancia,4,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Turismo,Económicas,Grado Complementario,Distancia,"1,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Marketing,Económicas,Grado Complementario,Distancia,"1,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Administración de Empresas,Económicas,Grado Complementario,Distancia o Combinada ,"1,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Tecnicatura en Administración de PYMES,Económicas,Pregrado,Distancia,"2,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Gestión del Talento Humano,Económicas,Grado Complementario,Distancia,"1,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Desarrollo de Negocios Digitales,Económicas,Grado Complementario,Distancia,"1,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Educación Religiosa,Humanidades,Grado Complementario,Distancia,2,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Lic. en Pedagogía de la Educación Religiosa,Humanidades,Grado,Distancia,4,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Abogacía,Jurídicas y Sociales,Grado,Distancia,5,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Martillero y Corredor Público e Inmobiliario,Jurídicas y Sociales,Pregrado,Distancia,"2,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Archivología,Jurídicas y Sociales,Grado Complementario,Distancia,"1,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Seguridad Ciudadana,Jurídicas y Sociales,Grado Complementario,Distancia,2,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Ciclo de Lic. en Corretaje Inmobiliario,Jurídicas y Sociales,Grado Complementario,Distancia,"1,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Tecnicatura en Acompañamiento Terapéutico,Médicas,Pregrado,Distancia,"2,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Tecnicatura en Gastronomía,Escuela de la Hospitalidad,Pregrado,Distancia,1,35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Tecnicatura en Turismo,Escuela de la Hospitalidad,Pregrado,Distancia,"2,5",35,8,,,
+Universidad FASTA,Privada,Buenos Aires,Tecnicautra en Hotelería,Escuela de la Hospitalidad,Pregrado,Distancia,"2,5",35,8,,,
+Universidad Nacional de Córdoba,Pública,Córdoba,Tecnicatura en Gestión de la Comunicación Turística,Ciencias de la Comunicación,Pregrado,Distancia,"2,5",12,4,,,
+Universidad Nacional de Córdoba,Pública,Córdoba,Tecnicatura en Periodismo Deportivo,Ciencias de la Comunicación,Pregrado,Distancia,"2,5",12,4,,,
+Universidad Nacional de Córdoba,Pública,Córdoba,Especialización en Didáctiva de las Lenguas Extranjeras,Lenguas,,Distancia,"1,5",12,4,,,
+Universidad Nacional de Córdoba,Pública,Córdoba,Especializacion en Producción y Análisis de Información para Póliticas Públicas,Ciencias Sociales,Formación Complementaria,Distancia,2,12,4,,,
+Universidad Nacional de Córdoba,Pública,Córdoba,Especialización en Traducción Jurídica y Económica,Lenguas,Formación Complementaria,Distancia,2,12,4,,,
+Universidad Nacional de Córdoba,Pública,Córdoba,Especialización en Traducción Científica  y Técnica,Lenguas,Formación Complementaria,Distancia,2,12,4,,,
+Universidad Nacional de Córdoba,Pública,Córdoba,Especialización en Tecnologías Multimedia para Desarrollos Educativos,Ciencias Sociales,Formación Complementaria,Distancia,1,12,4,,,
+Universidad Nacional de Córdoba,Pública,Córdoba,Especialización en Gestión Cultural,Ciencias Sociales,Formación Complementaria,Distancia,"1,5",12,4,,,
+Universidad Nacional de Córdoba,Pública,Córdoba,Maestría en Procesos Educativos Mediados por Tecnología,Ciencias Sociales,Posgrado,Distancia,2,12,4,,,
+Universidad Nacional de Córdoba,Pública,Córdoba,Maestría en Biotecnologías Reproductivas en Bovinos,Ciencias Agropecuarias,Posgrado,Distancia,2,12,4,,,
+Universidad Nacional de Córdoba,Pública,Córdoba,"Maestía en Políticas Económicas, Sociales y Regionales",Ciencias Sociales,Posgrado,Distancia,2,12,4,,,
+Universidad Nacional de Córdoba,Pública,Córdoba,Maestría en Administración Pública,Ciencias Sociales,Posgrado,Distancia,2,12,4,,,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Psicología,Facultad de Ciencias Sociales,Formación Complementaria,Combinada,4,"""+50""",5,,"Podés cursar en modalidad online el 1er., 2do. y 3er. año de la carrera.",
+Universidad de Palermo,Privada,Buenos Aires,Maestría en Ciencias Sociales,Facultad de Ciencias Sociales,Formación Complementaria,Distancia o Combinada ,2,"""+50""",5,,Podés cursar en modalidad online hasta el 50% del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Maestría en Educación Superior,Facultad de Ciencias Sociales,Formación Complementaria,Distancia o Combinada ,2,"""+50""",5,,Podés cursar en modalidad online hasta el 50% del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Doctorado en Educación Superior,Facultad de Ciencias Sociales,Doctorado,Distancia o Combinada ,1-3,"""+50""",5,,Podés cursar en modalidad online hasta el 50% del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Doctorado en Derecho,Facultad de Derecho,Doctorado,Combinada,variable,"""+50""",5,,Podés cursar en modalidad online algunas materias del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Fotografía,Facultad de Diseño y Comunicación,Grado,Combinada,4,"""+50""",5,,Podés cursar en modalidad online hasta el 50% del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Dirección Cinematográfica,Facultad de Diseño y Comunicación,Grado,Combinada,4,"""+50""",5,,Podés cursar en modalidad online hasta el 50% del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Comunicación de Moda,Facultad de Diseño y Comunicación,Grado,Combinada,2,"""+50""",5,,Podés cursar en modalidad online hasta el 50% del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Diseño Digital,Facultad de Diseño y Comunicación,Grado,Combinada,,"""+50""",5,,Podés cursar en modalidad online hasta el 50% del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Diseño de Interiores,Facultad de Diseño y Comunicación,Grado,Combinada,4,"""+50""",5,,Podés cursar en modalidad online hasta el 50% del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Organización de Eventos,Facultad de Diseño y Comunicación,Grado,Combinada,2 y medio,"""+50""",5,,Podés cursar en modalidad online hasta el 50% del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Arquitectura,Facultad de Arquitectura,Grado,Combinada,5,"""+50""",5,,Podés cursar en modalidad online algunas materias del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Licenciatura en Arte,Facultad de Diseño y Comunicación,Grado,Combinada,,"""+50""",5,,Podés cursar en modalidad online algunas materias del programa.,
+Universidad de Palermo,Privada,Buenos Aires,Ciclo de Lic. en Redes y Comunicación de Datos,Facultad de Ingeniería,Grado Complementario,Combinada,2,"""+50""",5,,Podés cursar en modalidad online algunas materias del programa.,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Licenciatura en Enseñanza de las Ciencias,Humanidades,Grado Complementario,Distancia,5 cuatrimestres,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Licenciatura en Enseñanza de las Ciencias Sociales,Humanidades,Grado Complementario,Distancia,2 y medio,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Licenciatura en Enseñanza de la Lengua y la Literatura,Humanidades,Grado Complementario,Distancia,5 cuatrimestres,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Licenciatura en Artes,Humanidades,Grado Complementario,Distancia,5 cuatrimestres,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Licenciatura en Educación Inicial,Humanidades,Grado Complementario,Distancia,5 cuatrimestres,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Licenciatura en Educación Especial,Humanidades,Grado Complementario,Distancia,5 cuatrimestres,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Licenciatura en Comunicación Audiovisual,Humanidades,Grado Complementario,Distancia,4 cuatrimestres,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Profesorado Universitario,Humanidades,Grado Complementario,Distancia,4 cuatrimestres,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Especialización en Enseñanza de las Ciencias Experimentales y Matemática,Humanidades,Formación Complementaria,Distancia,2 cuatrimestres,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Especialización en Literatura Infantil y Juvenil,Humanidades,Formación Complementaria,Distancia,3 cuatrimestres,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Maestría en Periodismo Narrativo,Humanidades,Formación Complementaria,Distancia,2,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Maestría en Educación,Humanidades,Posgrado,Distancia,4 cuatrimestres ,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Maestría en Cultura y Literatura en Lengua Inglesa,Humanidades,Posgrado,Distancia,4 cuatrimestres,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Maestría en Literatura Infantil y Juvenil,Humanidades,Formación Complementaria,Distancia,5 cuatrimestres,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Licenciatura en Administración Pública,Política y Gobierno,Grado Complementario,Distancia,2,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Maestría en Estudios Electorales,Política y Gobierno,Posgrado,Distancia,2,18,3,,,
+Universidad Nacional de San Martín,Pública,Buenos Aires,Maestría en Compras Públicas,Política y Gobierno,Posgrado,Distancia,5 trimestres,18,3,,,
+Universidad Nacional de San Martín,Pública,Río Negro,Especialización en Gestión del Transporte Aerocomercial,Hábitat y Sostenibilidad,Formación Complementaria,Distancia,1 y medio,18,3,,,
+Universidad Nacional de Río Negro,Pública,Río Negro,Ciclo de Licenciatura en Educación,Humanidades,Grado Complementario,Distancia,2,4,1,,,
+Universidad Nacional de Río Negro,Pública,Río Negro,Ciclo de Licenciatura en Educación Inicial,Humanidades,Grado Complementario,Distancia,1 y medio,4,1,,,
+Universidad Nacional de Río Negro,Pública,Río Negro,Ciclo de Licenciatura en Educación Primaria,Humanidades,Grado Complementario,Distancia,1 y medio,4,1,,,
+Universidad Nacional de Río Negro,Pública,Río Negro,Ciclo de Licenciatura en Educación Física y Deporte,Humanidades,Grado Complementario,Distancia,2,4,1,,,
+Fundación Barceló,Privada,La Rioja,Tec. Univ. en Análisis de Sist. de Inf. Médica,Informática,Pregrado,Combinada,2,14,3,,Presencial (con un 20% de formación a distancia),
+Fundación Barceló,Privada,"Buenos Aires, La Rioja, Santo Tomé (Corrientes), CPU Posadas (Misiones).",Lic. en Nutrición,Ciencias de la Salud ,Grado,Distancia,4,14,3,,prácticas profesionales supervisadas (600 h) en los ámbitos externos que correspondan cercanos a las sedes institucionales elegidas al momento de la inscripción. ,
+Fundación Barceló,Privada,"Buenos Aires, La Rioja, Santo Tomé (Corrientes) y Posadas (Misiones).",Lic. en Psicología,Ciencias Sociales,Grado,Distancia,4 y medio,14,3,,,
+Fundación Barceló,Privada,"Ciudad de Buenos Aires, La Rioja, Santo Tomé (Corrientes), CPU Posadas (Misiones) y Caleta Olivia (Santa Cruz).",Lic. en Enfermería,Ciencias de la salud,Grado,Distancia,4,14,3,,prácticas Pre-Profesionales y Prácticas Integradas Supervisadas presenciales,
+Fundación Barceló,Privada,Buenos Aires,Lic. en Instrumentación QUirúrgica,Ciencias de la Salud,Grado,Distancia,2,14,3,,,
+Fundación Barceló,Privada,Buenos Aires,curso de Agente de Propaganda Médica,Ciencias Sociales , Extensión Universitaria,Distancia,1 y un mes,14,3,,,
+Fundación Barceló,Privada,Buenos Aires,Doctorado en Ciencias de la Salud,Ciencia de la salud,Posgrado,Combinada,2,14,3,,,
+Fundación Barceló,Privada,Buenos Aires,Maestría en Gerontología Clínica,Ciencia de la salud,Posgrado,Combinada,2,14,3,,,
+Fundación Barceló,Privada,Buenos Aires,Maestría en Neuropsicofarmacología Clínica,Ciencia de la salud,Posgrado,Combinada,2,14,3,,,
+Fundación Barceló,Privada,Buenos Aires,Diplomatura básica de ecografía y doppler para médicos,Ciencias de la Salud,Formación Complementaria,Distancia,8 meses,14,3,,,
+Fundación Barceló,Privada,Buenos Aires,Diplomatura en Dermatología Oncológica,Ciencias de la Salud,Formación Complementaria,Distancia,9 meses,14,3,,,
+Fundación Barceló,Privada,Buenos Aires,Diplomatura en Rehabilitación Neurológica,Ciencias de la Salud,Formación Complementaria,Distancia,8 meses,14,3,,,
+Fundación Barceló,Privada,Buenos Aires,Diplomatura Universitaria en Psicodiagnóstico,Ciencias de la Salud,Formación Complementaria,Distancia,11 meses,14,3,,,
+Fundación Barceló,Privada,Buenos Aires,Diplomatura en Obesidad,Ciencias de la Salud,Formación Complementaria,Distancia,8 meses,14,3,,,
+Fundación Barceló,Privada,Buenos Aires,Diplomatura en Didáctica y Pedagogía,Ciencias de la Salud,Formación Complementaria,Combinada,33 semanas,14,3,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Lic. en Diseño y Comunicación,Ciencias Sociales ,Grado,Distancia,4,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Tec. en Programación de Sistemas,Informática,Grado,Distancia,2,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Lic. en Ciencia Política y de Gobierno,Ciencias Sociales,Grado,Distancia,4,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Tec. en Higiene y Seguridad en el Trabajo,Ingeniería y Tecnología,Grado,Distancia,2 y un cuatrimestre,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,"Lic. en Dirección de Negocios",Ciencias Económicas ,Grado,Distancia,4,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Lic. en Comunicación Social,Ciencias Sociales,Grado,Distancia,4,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Lic. en Administración de Empresas,Ciencias Económicas ,Grado,Distancia,4,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires, Lic. en Marketing,Ciencias Económicas ,Grado,Distancia,4,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Lic. en Recursos Humanos,Ciencias Sociales,Grado,Distancia,4,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Licenciatura en Comercio Exterior,Ciencias Económicas ,Grado,Distancia,4,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires, Abogacía,Ciencias Sociales,Grado,Distancia,4,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Contador Público,Ciencias Económicas ,Grado,Distancia,4,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Ciclo de Complementación Relaciones Públicas e Institucionales,Ciencias Sociales,Grado Complementario,Distancia,2,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires, Ciclo de Complementación en Marketing,Ciencias Económicas ,Grado Complementario,Distancia,2,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Ciclo de Complementación en Recursos Humanos,Ciencias Sociales,Grado Complementario,Distancia,2,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Ciclo de Complementación en Comercio Exterior,Ciencias Económicas,Grado Complementario,Distancia,2,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Ciclo de Complementación en Administración de Empresas,Ciencias Económicas,Grado Complementario,Distancia,2,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Maestría en Gestión de las Comunicaciones, Ciencias Sociales,Posgrado,Distancia,2,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Especialización en Construcción de Marcas,Ciencias Sociales ,Posgrado,Distancia,2,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Especialización en prospectiva estratégica,Ciencias Sociales,Posgrado,Distancia,2,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,  Gestión de Bibliotecas, Ciencias Sociales,Posgrado,Distancia,2,21,4,,,
+Universidad de Ciencias Empresariales y Sociales,Privada,Buenos Aires,Especialización en Docencia Universitaria en Ciencias Empresariales y Sociales, Ciencias Sociales,Posgrado,Distancia,2,21,4,,,
+Universidad UFLO,Privada,Buenos Aires,Licenciatura Administración,Ciencias Económicas,Grado,Combinada,4,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Abogacía, Ciencias Sociales,Grado,Combinada,5,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Actividad Física y Deporte,Ciencias de la Salud,Grado,Combinada,4,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Arquitectura,Ingeniería y Tecnología,Grado,Combinada,6,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Contador público,Ciencias Económicas,Grado,Combinada,4,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Diseño gráfico,Ciencias Sociales,Grado,Combinada,4,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Profesorado Universitario Educación Física,Ciencias de la Salud,Grado,Combinada,4,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Gestión de Recursos Humanos,Ciencias Sociales,Grado,Combinada,4,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Ingeniería Ambiental,Ingeniería,Grado,Combinada,5,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Kinesiología y Fisiatría,Ciencias de la Salud,Grado,Combinada,4 y medio,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Nutrición,Ciencias de la Salud,Grado,Combinada,4,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Producción de Bioimágenes,Ciencias de la Salud,Grado,Combinada,4,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Licenciatura Psicología,Ciencias Sociales,Grado,Combinada,4 y medio,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Profesorado Universitario Psicología,Ciencias Sociales,Grado,Distancia,1 y medio,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Licenciatura Psicopedagogía,Ciencias Sociales,Grado,Combinada,4,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Profesorado Universitario Psicopedagogía,Ciencias Sociales,Grado,Distancia,1 y medio,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Seguridad e Higiene y Control Ambiental Laboral,Ingeniería,Grado,Combinada,4,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Licenciatura Sociología,Ciencias Sociales,Grado,Distancia,4,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Tecnicatura Universitaria Acompañamiento Terapéutico,Ciencias de la salud,Pregrado,Combinada,3,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Tecnicatura Universitaria Deportes de Patinaje,Ciencias de la salud,Pregrado,Combinada,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Ciclo Complementario Lic. en Actividad Física y Deporte,Ciencias de la salud,Grado Complementario,Distancia,1 y medio,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Ciclo Complementario Lic. en Diseño gráfico,Ciencias Sociales,Grado Complementario,Distancia,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Ciclo Complementario Lic. en Educación,Ciencias Sociales ,Grado Complementario,Distancia,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Ciclo Complementario Lic. en Gestión de Recursos Humanos,Ciencias Sociales ,Grado Complementario,Combinada,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Ciclo Complementario Lic. en Producción de Bioimágenes,Ciencias de la Salud,Grado Complementario,Distancia,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Ciclo Complementario Lic. en Psicopedagogía,Ciencias Sociales,Grado Complementario,Distancia,1,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Ciclo Complementario Lic. en Seguridad e Higiene y Control Ambiental Laboral,Ingeniería y Tecnología,Grado Complementario,Distancia,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Maestría Actividad Física y Deporte,Ciencias de la Salud,Posgrado,Combinada,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Doctorado Arquitectura y Urbanismo,Ingeniería y Tecnología,Posgrado,Combinada,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Maestría Derecho Internacional Privado,Ciencias Sociales,Posgrado,Distancia,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Especialización Docencia Universitaria,Ciencias Sociales,Posgrado,Distancia,1 y medio,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Doctorado Economía Circular y Producción Sustentable,Ciencias Económicas,Posgrado,Distancia,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Maestría Infraestructuras Urbanas Sustentables,Ingeniería y Tecnología,Posgrado,Combinada,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Maestría Neuropsicología,Ciencias de la Salud,Posgrado,Combinada,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Doctorado Psicología,Ciencias Sociales,Posgrado,Combinada,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Posdoctorado Psicología,Ciencias Sociales,Posgrado,Combinada,-,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Especialización Psicología Clínica,Ciencias Sociales,Posgrado,Distancia,2 y medio,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Maestría Psicología Social,Ciencias Sociales,Posgrado,Combinada,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Doctorado Sistemas Alimentarios Sostenibles,Ciencias de la Salud ,Posgrado,Distancia,2,40,5,,,
+Universidad UFLO,Privada,Buenos Aires,Especialización Psicoterapia Infanto – Juvenil,Ciencias Sociales,,,1 y medio,40,5,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+nombreUniversidad,sector,provincia,nombreCarrera,areaConocimiento,nivel,modalidad,duracionAnios,cantidadCarrerasVirtuales,cantidadAreas,porcentajeOfertaVirtual,observaciones,
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Arquitectura,Arquitectura,"pregrado, grado y posgrado",Presencial,5,,,,,
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Diseño de Interiores,Arquitectura,"pregrado, grado y posgrado",Presencial,4,,,,,
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Doctorado en Arquitectura y Urbanismo,Arquitectura,"pregrado, grado y posgrado",Presencial,2,,,,,
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura-en-diseño-gráfico/,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,4,,,,,
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Periodismo,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,4,,,,,
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciado en Producción y Realización Audiovisual,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,4,,,,,
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Lic. en Publicidad,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,4,,,,,
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Relaciones Públicas,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,4,,,,,
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Universitaria en Animación Digital y Efectos Visuales,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,3,,,,,
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura en Periodismo - CABA,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,3,,,,,
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Universitaria en Periodismo Deportivo,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,"2,5",,,,,
+Universida Nacional de Quilmes,Pública,Buenos Aires,Tecnicatura Universitaria en Higiene y Seguridad en el Trabajo,Ciencia y Tecnología,Pregrado,Distancia,2 y medio,11,4,,,
+Universida Nacional de Quilmes,Pública,Buenos Aires,Tecnicatura Universitaria en Gestión de Medios Comunitarios,Ciencias Sociales,Pregrado,Distancia,2 y medio,11,4,,,
+Universida Nacional de Quilmes,Pública,Buenos Aires,Tecnicatura Universitaria en Ciencias Empresariales,Economía y Administración,Pregrado,Distancia,2 y medio,11,4,,,
+Universida Nacional de Quilmes,Pública,Buenos Aires,Licenciatura en Ciencias Sociales y Humanidades (CCC),Ciencias Sociales,Grado,Distancia,2 y medio,11,4,,,
+Universida Nacional de Quilmes,Pública,Buenos Aires,Licenciatura en Educación (CCC),Ciencias Sociales,Grado,Distancia,2 y medio,11,4,,,
+Universida Nacional de Quilmes,Pública,Buenos Aires,Licenciatura en Geografía (CCC),Ciencias Sociales,Grado,Distancia,2 y medio,11,4,,,
+Universida Nacional de Quilmes,Pública,Buenos Aires,Contador Público,Economía y Administración,Grado,Distancia,5,11,4,,,
+Universida Nacional de Quilmes,Pública,Buenos Aires,Licenciatura en Turismo y Hotelería,Economía y Administración,Grado,Distancia,5,11,4,,,
+Universida Nacional de Quilmes,Pública,Buenos Aires,Licenciatura en Administración,Economía y Administración,Grado,Distancia,5,11,4,,,
+Universida Nacional de Quilmes,Pública,Buenos Aires,Licenciatura en Gestión del Comercio Internacional,Economía y Administración,Grado,Distancia,5,11,4,,,
+Universida Nacional de Quilmes,Pública,Buenos Aires,Licenciatura en Artes y Tecnologías (CCC),Artes,Grado,Distancia,3,11,4,,,
+Universidad Nacional del Centro de la Provincia de Buenos Aires,Pública,Tandil,Diplomatura Universitaria en Estéticas Contemporáneas ,Artes,Formación complementaria,Distancia,1,11,3,,,
+Universidad Nacional del Centro de la Provincia de Buenos Aires,Pública,Tandil,Licenciatura en Educación Matemática,Ciencias Sociales y Humanas,Grado,Distancia,2,11,3,,,
+Universidad Nacional del Centro de la Provincia de Buenos Aires,Pública,Olavarría,Diplomatura Universitaria en Gestión de la Ergonomía,Ingeniería y Tecnología,Formación complementaria,Distancia,1,11,3,,,
+Universidad Nacional del Centro de la Provincia de Buenos Aires,Pública,Tandil,Diplomatura Universitaria en Turismo Alternativo Especializado en Técnicas de Escalada y Trekking,Ciencias Sociales,Formación complementaria,Distancia,1,11,3,,,
+Universidad Nacional del Centro de la Provincia de Buenos Aires,Pública,Tandil,Licenciatura en Ciencias de la Educación,Ciencias Sociales,Grado,Distancia,2 y medio,11,3,,,
+Universidad Nacional del Centro de la Provincia de Buenos Aires,Pública,Tandil,Licenciatura en Educación Inicial,Ciencias Sociales,Grado,Distancia,2 y medio,11,3,,,
+Universidad Nacional del Centro de la Provincia de Buenos Aires,Pública,Tandil,Licenciatura en Geografía ,Ciencias Sociales,Grado,Distancia,2 y medio,11,3,,,
+Universidad Nacional del Centro de la Provincia de Buenos Aires,Pública,Tandil,Licenciatura en Gestión Ambiental,Ingeniería y Tecnología,Grado,Distancia,2 y medio,11,3,,,
+Universidad Nacional del Centro de la Provincia de Buenos Aires,Pública,Tandil,Licenciatura en Historia,Ciencias Sociales y Humanas,Grado,Distancia,2 y medio,11,3,,,
+Universidad Nacional del Centro de la Provincia de Buenos Aires,Pública,Tandil, Licenciado en Turismo Sustentable,Ciencias Sociales y Humanas,Grado,Distancia,2 y medio,11,3,,,
+Universidad Nacional del Centro de la Provincia de Buenos Aires,Pública,Tandil,Ingeniería en Seguridad e Higiene en el Trabajo,Ingeniería y Tecnología,Grado,Distancia,2 y medio,11,3,,,
+Universidad Nacional de Santiago del Estero,Pública,Santiago del estero,Licenciatura en Educación Inicial,Ciencias Sociales y Humanas,Grado,Combinado,2 y medio,7,1,,,
+Universidad Nacional de Santiago del Estero,Pública,Santiago del estero,Licenciatura en Educacion Primaria,Ciencias Sociales y Humanas,Grado,Combinado,2 y medio,7,1,,,
+Universidad Nacional de Santiago del Estero,Pública,Santiago del estero,Licenciatura en Gestión Educativa,Ciencias Sociales y Humanas,Grado,Combinado,2 y medio,7,1,,,
+Universidad Nacional de Santiago del Estero,Pública,Santiago del estero,Analista en Gestión Educativa,Ciencias Sociales y Humanas,Grado,Combinado,2 y medio,7,1,,,
+Universidad Nacional de Santiago del Estero,Pública,Santiago del estero,Licenciatura en Historia,Ciencias Sociales y Humanas,Grado,Combinado,2 y medio,7,1,,,
+Universidad Nacional de Santiago del Estero,Pública,Santiago del estero,Licenciatura en Inglés,Ciencias Sociales y Humanas,Grado,Combinado,2 y un cuatrimentre,7,1,,,
+Universidad Nacional de Santiago del Estero,Pública,Santiago del estero,Licenciatura en Cooperativismo y Mutualismo,Ciencias Sociales y Humanas,Grado,Combinado,2 y un cuatrimentre,7,1,,,
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Arquitectura,Arquitectura,"pregrado, grado y posgrado",Presencial,5,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Diseño de Interiores,Arquitectura,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Doctorado en Arquitectura y Urbanismo,Arquitectura,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura-en-diseño-gráfico/,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Periodismo,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciado en Producción y Realización Audiovisual,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Lic. en Publicidad,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Relaciones Públicas,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Universitaria en Animación Digital y Efectos Visuales,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura en Periodismo - CABA,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Universitaria en Periodismo Deportivo,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,"2,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Superior en Publicidad - Castelar,Ciencia de la comunicación,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Abogacia,Derecho y Ciencias Políticas,"pregrado, grado y posgrado",Presencial,5,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Ciencias Politicas,Derecho y Ciencias Políticas,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Relaciones Internacionales,Derecho y Ciencias Políticas,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,"Martillero Público, Corredor y Administrador de Consorcio a distancia",Derecho y Ciencias Políticas,"pregrado, grado y posgrado",Distancia,"2,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,"Martillero Público, Corredor y Administrador de Consorcio",Derecho y Ciencias Políticas,"pregrado, grado y posgrado",Presencial,"2,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Doctorado en Ciencias Juridicas,Derecho y Ciencias Políticas,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Maestria en Derecho Administrativo,Derecho y Ciencias Políticas,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especializacion en Derecho Procesal de Familia a distancia,Derecho y Ciencias Políticas,"pregrado, grado y posgrado",Distancia,"2,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Musicoterapia,Psiclogia y Relaciones Humanas,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licencitura en Psicologia,Psiclogia y Relaciones Humanas,"pregrado, grado y posgrado",Presencial,5,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Terapia Ocupacional,Psiclogia y Relaciones Humanas,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Universitaria en Acompañante Terapetico,Psiclogia y Relaciones Humanas,"pregrado, grado y posgrado",Presencial,"2,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Maestria en Psicologia Organizacional con Orientacion Gerencial Buenos Aires,Psiclogia y Relaciones Humanas,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Maestria en Psicologia Organizacional con Orientacion Gerencial Rosario,Psiclogia y Relaciones Humanas,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Maestria en Psicologia del Deporte,Psiclogia y Relaciones Humanas,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especializacion en Terapia Cognitiva,Psiclogia y Relaciones Humanas,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Ciencias de la Educación,CIENCIAS DE LA EDUCACIÓN Y PSICOPEDAGOGÍA,"pregrado, grado y posgrado",Presencial,5,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Educación Inicial,CIENCIAS DE LA EDUCACIÓN Y PSICOPEDAGOGÍA,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Lic. en Gestión de Instituciones Educativas - Ciclo de Complementación Curricular (A Distancia),CIENCIAS DE LA EDUCACIÓN Y PSICOPEDAGOGÍA,"pregrado, grado y posgrado",Distancia,"1,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Psicopedagogía,CIENCIAS DE LA EDUCACIÓN Y PSICOPEDAGOGÍA,"pregrado, grado y posgrado",Presencial,5,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Profesorado de Educación Inicial - Ituzaingó (Colegio Universitario),CIENCIAS DE LA EDUCACIÓN Y PSICOPEDAGOGÍA,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Profesorado Universitario en Ciencias de la Educación,CIENCIAS DE LA EDUCACIÓN Y PSICOPEDAGOGÍA,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Profesorado Universitario para la Educación Secundaria y Superior,CIENCIAS DE LA EDUCACIÓN Y PSICOPEDAGOGÍA,"pregrado, grado y posgrado",Presencial,"1,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Doctorado en Educación Superior Universitaria,CIENCIAS DE LA EDUCACIÓN Y PSICOPEDAGOGÍA,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Docencia Universitaria,CIENCIAS DE LA EDUCACIÓN Y PSICOPEDAGOGÍA,"pregrado, grado y posgrado",Presencial,"1,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Docencia Universitaria - Rosario,CIENCIAS DE LA EDUCACIÓN Y PSICOPEDAGOGÍA,"pregrado, grado y posgrado",Presencial,"1,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Enfermería,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,5,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Instrumentación Quirúrgica,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Kinesiología y Fisiatría,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,5,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Nutrición,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Producción de Bioimágenes,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Producción de Bioimágenes - Ciclo de Complementación Curricular (A Distancia),MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Distancia,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Medicina,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,6,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Odontología,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,5,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Universitaria en Prótesis Dental,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Doctorado en Ciencias Médicas,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Maestría en Cardiología Crítica,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Maestría en Cicatrización de Heridas,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Maestría en Investigación Clínica Farmacológica,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Cardiología,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Cirugía y Traumatología Bucomaxilofacial,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Investigación Clínica Farmacológica (A Distancia),MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Distancia,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Investigación Clínica Farmacológica (A Distancia),MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Distancia,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Kinesiología Deportiva,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Medicina Interna,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Ortodoncia,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Periodoncia,MEDICINA Y CIENCIAS DE LA SALUD,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Ingeniería en Sistemas Informáticos,TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Presencial,5,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Gestión de Tecnología Informática,TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Matemática (A Distancia),TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Distancia,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Producción de Simuladores y Videojuegos,TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Presencial,"1,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Producción de Simuladores y Videojuegos - Ciclo de Complementación,TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Profesorado de Matemática- SAN ISIDRO (Colegio Universitario),TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Analista de Sistemas Informáticos - CABA (Colegio Universitario),TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Analista de Sistemas Informáticos - SAN ISIDRO (Colegio Universitario),TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Presencial,"2,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Analista Programador (A Distancia),TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Distancia,"2,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Doctorado en Informática,TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Maestría en Tecnología Educativa (A Distancia),TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Distancia,"1,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Maestría en Tecnología Informática (A Distancia),TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Distancia,"1,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Dirección de Proyectos de Tecnología Informática (A Distancia),TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Distancia,"1,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Ingeniería de Software (A Distancia),TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Distancia,"1,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Inteligencia Artificial (A Distancia),TECNOLOGÍA INFORMÁTICA,"pregrado, grado y posgrado",Distancia,"1,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Contador Público,CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Presencial,"4,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Administración,CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Comercialización (Marketing),CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Comercio Internacional,CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Economía,CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Administración (A Distancia),CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Distancia,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Comercialización (Marketing a Distancia),CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Distancia,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Superior en Administración de PYMES - Ituzaingó (Colegio Universitario),CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Superior en Administración de PYMES - San Isidro (Colegio Universitario),CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Superior en Administración con orientación en Marketing - San Isidro (Colegio Universitario),CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Superior en Comercio Internacional - San Isidro (Colegio Universitario),CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Universitaria en Ventas (A Distancia),CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Distancia,"2,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Maestría en Alta Dirección de Empresas,CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Concursos y Quiebras,CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Presencial,"1,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Especialización en Sindicatura Concursal,CIENCIAS ECONOMICAS,"pregrado, grado y posgrado",Presencial,"1,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Actividad Física y Deportes,MOTRICIDAD HUMANA Y DEPORTES,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Actividad Física y Deportes (Plan especial para profesores - Enfoque Alto Rendimiento),MOTRICIDAD HUMANA Y DEPORTES,"pregrado, grado y posgrado",Presencial,1,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Actividad Física y Deportes (Plan especial para profesores - Enfoque Alto Rendimiento) - (A Distancia),MOTRICIDAD HUMANA Y DEPORTES,"pregrado, grado y posgrado",Presencial,1,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Actividad Física y Deportes (Plan especial para profesores - Enfoque G.E.D.),MOTRICIDAD HUMANA Y DEPORTES,"pregrado, grado y posgrado",Presencial,1,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Actividad Física y Deportes (Plan especial para profesores - Enfoque G.E.D. - A Distancia),MOTRICIDAD HUMANA Y DEPORTES,"pregrado, grado y posgrado",Presencial,1,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Actividad Física y Deportes (Plan especial para profesores - Enfoque Deporte y Turismo),MOTRICIDAD HUMANA Y DEPORTES,"pregrado, grado y posgrado",Presencial,1,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Actividad Física y Deportes (Plan especial para profesores - Enfoque Deporte y Turismo - A Distancia),MOTRICIDAD HUMANA Y DEPORTES,"pregrado, grado y posgrado",Presencial,1,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Profesorado Universitario en Educación Física y Deportes,MOTRICIDAD HUMANA Y DEPORTES,"pregrado, grado y posgrado",Presencial,1,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Profesorado en Educación Física - CABA (Colegio Universitario),MOTRICIDAD HUMANA Y DEPORTES,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Profesorado en Educación Física - Ituzaingó (Colegio Universitario,MOTRICIDAD HUMANA Y DEPORTES,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Gastronomía,TURISMO Y HOSPITALIDAD,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Hotelería,TURISMO Y HOSPITALIDAD,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Licenciatura en Turismo,TURISMO Y HOSPITALIDAD,"pregrado, grado y posgrado",Presencial,4,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Guía Universitario en Turismo,TURISMO Y HOSPITALIDAD,"pregrado, grado y posgrado",Presencial,"2,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Técnico Superior en Hotelería - San Isidro (Colegio Universitario),TURISMO Y HOSPITALIDAD,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Superior en Turismo - San Isidro (Colegio Universitario),TURISMO Y HOSPITALIDAD,"pregrado, grado y posgrado",Presencial,3,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Universitaria en Gestión y Organización de Eventos,TURISMO Y HOSPITALIDAD,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Tecnicatura Universitaria en Gestión y Organización de Eventos (A Distancia),TURISMO Y HOSPITALIDAD,"pregrado, grado y posgrado",Distancia,"2,5",17,11,"15,74",,DAVID
+Universidad Abierta Interamericana,privada,Buenos Aires - Rosario,Doctorado en Ciencia y Tecnología para el Desarrollo,A TRAVÉS DE LA VICERRECTORÍA DE INVESTIGACIÓN,"pregrado, grado y posgrado",Presencial,2,17,11,"15,74",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Diseño Gráfico,ciencias-sociales-y-humanas,Carrera de Grado,Virtual,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Periodismo y Comunicaciones,ciencias-sociales-y-humanas,Carrera de Grado,Virtual,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Publicidad,ciencias-sociales-y-humanas,Carrera de Grado,Virtual,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Relaciones Públicas,ciencias-sociales-y-humanas,Carrera de Grado,Virtual,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Analista Universitario/a en Relaciones Públicas,ciencias-sociales-y-humanas,Carrera Corta,Virtual,"2,5",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Trabajo Social,ciencias-sociales-y-humanas,Carrera de Grado,Virtual,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Periodista,ciencias-sociales-y-humanas,Carrera Corta,Virtual,3,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Tecnicatura Universitaria en Organización de Eventos,ciencias-sociales-y-humanas,Carrera Corta,Virtual,"2,5",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Tecnicatura Universitaria en Gestión Social,ciencias-sociales-y-humanas,Carrera Corta,Virtual,"2,5",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Maestría en Seguridad Pública,ciencias-sociales-y-humanas,Carrera de Posgrado,Presencial,2,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Arquitectura,ciencias-sociales-y-humanas,Carrera de Grado,Presencial,5,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Seminario de Costos de Construcción,ciencias-sociales-y-humanas,Cursos y Diplomaturas,Presencial,"0,01",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Diplomatura en Psicología Policial,ciencias-sociales-y-humanas,Cursos y Diplomaturas,Presencial,8 meses,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Psicología,ciencias-sociales-y-humanas,Carrera de Grado,Presencial,5,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Psicopedagogía,ciencias-sociales-y-humanas,Carrera de Grado,Presencial,5,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Asistente Universitario/a Psicopedagógico/a,ciencias-sociales-y-humanas,Carrera Corta,Presencial,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Especialización en Psicología Clínica,ciencias-sociales-y-humanas,Carrera de Posgrado,Presencial,2,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Maestría en Psicoanálisis,ciencias-sociales-y-humanas,Carrera de Posgrado,Presencial,2,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Postdoctorado en Psicología Social,ciencias-sociales-y-humanas,Carrera de Posgrado,Presencial,"1,5",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Abogacía,Ciencias-Juridicas,Carrera de Grado,Uk en Vivo,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Diplomatura en Narcotráfico y Precursores Químicos,Ciencias-Juridicas,Cursos y Diplomaturas,Virtual,"1,5",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,"Diplomatura Integral en Derechos Fundamentales. Abordaje desde el derecho Constitucional, Administrativo, Ambiental, Penal y Procesal Penal y de la Familia.",Ciencias-Juridicas,Cursos y Diplomaturas,Presencial,7 meses,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Doctorado en Derecho,Ciencias-Juridicas,Carrera de Posgrado,Presencial,2,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Maestría en Derecho y Tecnología,Ciencias-Juridicas,Carrera de Posgrado,Presencial,2,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Maestría en Derecho Penal y Justicia Internacional,Ciencias-Juridicas,Carrera de Posgrado,Presencial,2,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Diplomatura en Derecho Sucesorio,Ciencias-Juridicas,Cursos y Diplomaturas,Virtual,1 mes,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Contador Público,Ciencias-Económicas-Empresariales,Carrera de Grado,Virtual,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Administración,Ciencias-Económicas-Empresariales,Carrera de Grado,Virtual,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Administración Hotelera,Ciencias-Económicas-Empresariales,Carrera de Grado,Virtual,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Comercialización,Ciencias-Económicas-Empresariales,Carrera de Grado,Presencial,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Comercio Internacional,Ciencias-Económicas-Empresariales,Carrera de Grado,Virtual,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Gestión de Operaciones Logísticas y Estratégicas,Ciencias-Económicas-Empresariales,Carrera de Grado,Virtual,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Seguridad e Higiene en el Trabajo con Orientación en Gestión Ambiental,Ciencias-Económicas-Empresariales,Carrera de Grado,Virtual,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Negocios Digitales y Globales,Ciencias-Económicas-Empresariales,Carrera de Grado,Virtual,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,"Diplomatura Universitaria en Gobierno Corporativo, Compliance y Gestión de Finanzas y Riesgos (incluyendo el manejo de las criptos y los fintech)",Ciencias-Económicas-Empresariales,Cursos y Diplomaturas,Virtual,5 meses,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Diplomatura Universitaria | Gestión de PyMES y Emprendimientos,Ciencias-Económicas-Empresariales,Cursos y Diplomaturas,Virtual,5 meses,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Relaciones Laborales,Ciencias-Económicas-Empresariales,Carrera de Grado,Virtual,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Analista Universitario/a en Relaciones Laborales,Ciencias-Económicas-Empresariales,Carrera Corta,Virtual,3,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Turismo,Ciencias-Económicas-Empresariales,Carrera de Grado,Virtual,4,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Tecnicatura Universitaria en Martillero Público y Corredor,Ciencias-Económicas-Empresariales,Carrera Corta,Virtual,"2,5",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Tecnicatura Universitaria en Comercialización,Ciencias-Económicas-Empresariales,Carrera Corta,Presencial,"2,5",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Tecnicatura Universitaria en Gestión de Operaciones Logísticas,Ciencias-Económicas-Empresariales,Carrera Corta,Virtual,"2,5",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Tecnicatura Universitaria en Seguridad e Higiene en el Trabajo,Ciencias-Económicas-Empresariales,Carrera Corta,Virtual,"2,5",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Tecnicatura Universitaria en Seguros,Ciencias-Económicas-Empresariales,Carrera Corta,Virtual,"2,5",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Tecnicatura Universitaria en Seguridad Empresarial,Ciencias-Económicas-Empresariales,Carrera Corta,Virtual,"2,5",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Tecnicatura Universitaria en Administración Hotelera,Ciencias-Económicas-Empresariales,Carrera Corta,Virtual,"2,5",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Tecnicatura Universitaria en Turismo,Ciencias-Económicas-Empresariales,Carrera Corta,Virtual,"2,5",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,MBA – Maestría en Administración de Negocios | Orientación Gestión de la Tecnología y la Innovación,Ciencias-Económicas-Empresariales,Carrera de Posgrado,Virtual,15 meses,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Curso de Capacitación Continuada para Productores Asesores de Seguros | SEGURO TÉCNICO – Junio,Ciencias-Económicas-Empresariales,Cursos y Diplomaturas,Virtual,1 dia,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Curso de Capacitación Continuada a Productores Asesores de Seguros | SEGURO TÉCNICO – Julio,Ciencias-Económicas-Empresariales,,Virtual,1 dia,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Curso para aspirantes a la Matrícula de Productor Asesor de Seguros,Ciencias-Económicas-Empresariales,,Virtual,10 meses,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Bioquímica,Ciencias-Económicas-Empresariales,Carrera de Grado,Presencial,5,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Farmacia,Ciencias-Económicas-Empresariales,Carrera de Grado,Presencial,5,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Licenciatura en Química,Ciencias-Económicas-Empresariales,Carrera de Grado,Presencial,5,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Odontología,Ciencias-Económicas-Empresariales,Carrera de Grado,Presencial,5,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,"Tecnicatura Universitaria en Cosmetología, Cosmiatría y Estética",Ciencias-Económicas-Empresariales,Carrera Corta,Presencial,2,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Especialización en Farmacia Comunitaria,Ciencias-Económicas-Empresariales,Carrera de Posgrado,Virtual,2,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Especialización en Ortodoncia y Ortopedia Maxilar,Ciencias-Económicas-Empresariales,Carrera de Posgrado,Presencial,3,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Especialización en Farmacia Industrial | Orientación en Productos Médicos,Ciencias-Económicas-Empresariales,Carrera de Posgrado,Presencial,"2,5",40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Diplomatura | Perito en Informática Forense,Ciencias-Económicas-Empresariales,Cursos y Diplomaturas,Virtual,9 meses,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Diplomatura | Manager en Ciberdefensa Operativa,Escuela Universitaria de Sistemas,Cursos y Diplomaturas,Virtual,9 meses,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Analista de Sistemas,Escuela Universitaria de Sistemas,Carrera Corta,Presencial,3,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Tecnicatura Universitaria en Tecnología de la Información | Orientación en Desarrollo de Videojuegos,Escuela Universitaria de Sistemas,Carrera Corta,Virtual,3,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Tecnicatura Universitaria en Tecnología de la Información | Orientación en Implementación de Soluciones Empresariales,Escuela Universitaria de Sistemas,Carrera Corta,Virtual,3,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Tecnicatura Universitaria en Tecnología de la Información | Orientación en Desarrollo Web,Escuela Universitaria de Sistemas,Carrera Corta,Virtual,3,40,4,"60,60%",,DAVID
+Universidad Argentina John F. Kennedy,Privada,Buenos Aires,Especialización en Sistemas de Información,Escuela Universitaria de Sistemas,Carrera de Posgrado,Virtual,9 meses,40,4,"60,60%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Diseño de Indumentaria y Textil,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado",Presencial,4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Diseño Gráfico,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Presencial, Presencial Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Periodismo,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Relaciones Públicas e Institucionales,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Presencial, Educación Distribuida , Educación Distribuida Home",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Diseño Industrial,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado",PRESENCIAL,4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Diseño y Animación Digital,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Presencial , Educación Distribuida Home",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Publicidad,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida Home, Presencial , Educación Distribuida","4,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura Universitaria En Gestión De Moda,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura Universitaria En Diseño Y Animación Digital,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,"Tecnicatura En Dirección De Protocolo, Organización De Eventos Y Relaciones Públicas",DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Social Media Management,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Estrategia para el Desarrollo del Fútbol Juvenil,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",1MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Inteligencia Artificial para Marketing e Industrias Creativas,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Marketing Y Publicidad Digital,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,"Diplomatura En Comunicaciones, Marketing Digital Y Social Media",DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Branding,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado Avanzado en Liderazgo UX,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Creatividad,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Oratoria Y Presentaciones Públicas Efectivas,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Customer Experience Designer,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Organización De La Producción En La Industria De La Indumentaria,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Storytelling Y Brand Storytelling,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Creación Audiovisual de Contenido Digital,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Arte Y Coleccionismo. Introducción Al Arte Desde La Perspectiva Del Coleccionismo Contemporáneo,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Diseño de Ciudades Sustentables e Inteligentes (SMART CITIES),DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Seguridad en Eventos Deportivos,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Gestión del Diseño Instruccional,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura Avanzada en Marketing Digital y Social Media - SMART VIRTUAL,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Creación de Contenidos para Realidad Virtual y Aumentada,DISEÑO Y COMUNICACIÓN,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Instrumentación Quirúrgica,SALUD,"pregrado, grado y posgrado",PRESENCIAL,4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Producción de Bioimágenes,SALUD,"pregrado, grado y posgrado",PRESENCIAL,"4,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Psicología,SALUD,"pregrado, grado y posgrado","Presencial, Presencial Distribuida , Presencial Home Rio IV","4,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Terapia Ocupacional Y Desarrollo Humano,SALUD,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Nutrición,SALUD,"pregrado, grado y posgrado","Presencial, Presencial Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Fonoaudiología,SALUD,"pregrado, grado y posgrado","Presencial, Presencial Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Kinesiologia y Fisioterapia,SALUD,"pregrado, grado y posgrado","Presencial Distribuida, Presencial",2,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Gerontología (CCC),SALUD,"pregrado, grado y posgrado",Presencial Distribuida,4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura Universitaria En Enfermería,SALUD,"pregrado, grado y posgrado",PRESENCIAL,4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura Universitaria en Atención Prehospitalaria de Emergencias,SALUD,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",2,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Carga De Trabajo Y Lesiones En Deportes De Equipo,SALUD,"pregrado, grado y posgrado","Presencial Distribuida, Presencial",3,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Tecnologia Y Ciencia Aplicadas Al Deporte,SALUD,"pregrado, grado y posgrado",PRESENCIAL,"2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Higiene Ocupacional,SALUD,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Nutrición Consciente-Mindset de la Alimentación,SALUD,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Nutricion Deportiva Avanzada,SALUD,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso de Telerehabilitación,SALUD,"pregrado, grado y posgrado",Educación Distribuida Home,,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Medicina Hospitalaria,SALUD,"pregrado, grado y posgrado",Educación Distribuida Home,4 meses,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Asistencia y Cuidado de las Personas Mayores,SALUD,"pregrado, grado y posgrado",Educación Distribuida Home,4 meses,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Optimización Del Proceso De Entrenamiento En Baloncesto Móvil,SALUD,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Kinefisiatria Vascular,SALUD,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Derecho Y Gestión De La Salud,SALUD,"pregrado, grado y posgrado",Educación Distribuida Home,4 meses,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso En Tendinopatía De Miembros Inferiores,SALUD,"pregrado, grado y posgrado",Educación Distribuida Home,4 meses,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Coaching Nutricional,SALUD,"pregrado, grado y posgrado",Educación Distribuida Home,4 meses,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado Auxiliar en Estética Integral,SALUD,"pregrado, grado y posgrado",Educación Distribuida Home,4 meses,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,"Curso: Ginecología Regenerativa, Funcional y Estética",SALUD,"pregrado, grado y posgrado",Educación Distribuida Home,2 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Ingeniería En Software,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Educación Distribuida Home,3 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Informática,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Presencial Home,5,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Gestión De La Información,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Ingeniería En Innovación Y Desarrollo,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida",5,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Administración De Infraestructura Tecnológica,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",PRESENCIAL,4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Matemática,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Ciencia De Datos,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Seguridad Informática,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Inteligencia Artificial Y Robótica,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado","Educación Distribuida Home, Presencial Home , Educación Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Bioinformática,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado","Educación Distribuida Home, Presencial Home , Educación Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura En Higiene Y Seguridad Laboral,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado","Educación Distribuida Home, Presencial Home , Educación Distribuida","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura Universitaria en Diseño y Desarrollo de Videojuegos,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado","Educación Distribuida Home, Presencial Home , Educación Distribuida","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura Universitaria En Redes Informáticas Y Telecomunicaciones,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado","Educación Distribuida Home, Presencial Home , Educación Distribuida","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Maestría En Inteligencia De Negocios Y Explotación De Datos,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",PRESENCIAL,2,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Blockchain: Fundamentos De Una Tecnología Disruptiva,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Educación Distribuida Home,2 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura En Seguridad De La Información,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado Experto en Protección de Datos Personales,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura En Inteligencia Artificial Aplicada Al Mercado,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado De Experto En La Seguridad De La Información,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Growth Hacking,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Posicionamiento En Buscadores (SEO),INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura En Cloud Computing,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Business Analytics,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Community Management,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso Prompt Engineering,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Educación Distribuida Home,2 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Experto en Investigación en Cibercrimen y Ciberseguridad,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Inteligencia Digital e Informativa para la Toma de Decisiones,INGIENERIA Y SISTEMAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Administración Hotelera,TURISMO Y HOTELERIA,"pregrado, grado y posgrado",Educación Distribuida Home,4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Gestión Turística,TURISMO Y HOTELERIA,"pregrado, grado y posgrado",Educación Distribuida Home,4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura Universitaria en Gestión de Recursos Turísticos,TURISMO Y HOTELERIA,"pregrado, grado y posgrado",Educación Distribuida Home,"2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Innovación y Desarrollo Turístico de los Territorios,TURISMO Y HOTELERIA,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,"Licenciatura En Higiene, Seguridad Y Medio Ambiente Del Trabajo",SUSTENTABILIDAD Y AGRO,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Ambiente Y Energías Renovables,SUSTENTABILIDAD Y AGRO,"pregrado, grado y posgrado","Presencial Home Rio IV, Educación Distribuida , Presencial Home , Educación Distribuida Home",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Hidrocarburos Y Geociencias,SUSTENTABILIDAD Y AGRO,"pregrado, grado y posgrado",PRESENCIAL,4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Antropología Organizacional,SUSTENTABILIDAD Y AGRO,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home , Presencial Home Rio IV , Presencial Home",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Administración Agraria,SUSTENTABILIDAD Y AGRO,"pregrado, grado y posgrado","Presencial, Educación Distribuida , Educación Distribuida Home , Presencial Home Rio IV",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Gestión Ambiental,SUSTENTABILIDAD Y AGRO,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura Universitaria En Hidrocarburos Y Geociencia,SUSTENTABILIDAD Y AGRO,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura Universitaria En Gestión Y Auditorías Ambientales,SUSTENTABILIDAD Y AGRO,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura En Agronegocios,SUSTENTABILIDAD Y AGRO,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Desarrollo De Proyectos De Energías Renovables,SUSTENTABILIDAD Y AGRO,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura En Instrumentos Para La Gestión Ambiental,SUSTENTABILIDAD Y AGRO,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso: Preparación y Mantenimiento de Césped,SUSTENTABILIDAD Y AGRO,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Actuario,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Administración,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida, Presencial Home Rio IV , Presencial Home , Educación Distribuida Home , Presencial",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Inteligencia de Negocios Digitales,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Gestión De Recursos Humanos,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Presencial, Educación Distribuida Home , Educación Distribuida , Presencial Home",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Comercialización - Marketing,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Presencial, Presencial Home Rio IV , Educación Distribuida , Educación Distribuida Home , Presencial Home",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Comercio Internacional,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida Home, Presencial , Presencial Home , Educación Distribuida , Presencial Home Rio IV",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Finanzas,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Logística Global,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Administración de Servicios de Salud (CCC),MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home , Presencial",2,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Emprendimiento (CCC),MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Presencial Home, Educación Distribuida , Presencial Home Rio IV , Educación Distribuida Home , Presencial",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura En Gestión Contable E Impositiva,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida, Presencial Home Rio IV , Educación Distribuida Home",2,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura En Relaciones Laborales,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura En Dirección De Equipos De Ventas,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura En Responsabilidad Y Gestión Social,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura Universitaria En Gestión Administrativa De Servicios De Salud,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura Universitaria En Marketing Y Publicidad Digital,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura Universitaria en Gestión de Clima Laboral en la Organización,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura En Gestión De Empresas Familiares,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Presencial Home, Presencial Home Rio IV , Educación Distribuida , Educación Distribuida Home","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura En Administración Y Gestión Tributaria,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Maestría en Administración de Negocios y Aplicaciones Tecnológicas en la Empresa,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",2,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Maestría en Administración de Empresas,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida Home, Presencial",2,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,ESPECIALIZACIÓN EN GESTIÓN Y GOBIERNO DE EMPRESAS FAMILIARES,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Presencial, Educación Distribuida Home",1,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Especialización En Finanzas Corporativas Y Mercado De Capitales,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Especialización en Negocios Internacionales,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida Home, Presencial",1,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Especialización En Marketing Y Dirección Comercial,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Especialización en Logística y Cadena de Suministro,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Presencial, Educación Distribuida Home",1,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Especialización en Contabilidad y Auditoría,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Inbound Marketing,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,DIPLOMATURA EN LIDERAZGO COACH E INTELIGENCIA EMOCIONAL,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,7 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso: Employer Branding como estrategia de Human Resources,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Presencial,3 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso: Claves para Lograr Ventas Exitosas,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En E-Commerce,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso: Principios de la Economía Conductual,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso de Proyectos en la Empresa Familiar,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso de Operaciones y Logística,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Gestión Integral de Esports,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura En Desarrollo De Habilidades Directivas,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,CURSO: GESTIÓN DEL ASEGURAMIENTO DE BENEFICIOS EN PROYECTOS (BRM),MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso Intermedio de Investigación de Mercados,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso: Gamificación para la Gestión de Talentos,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Gestion De Instalaciones Deportivas,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Analítica para Redes Sociales,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Gestión De Las Relaciones Laborales,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Tasaciones y Avalúo de Bienes,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso de análisis de datos para la toma de decisiones,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Administración Tributaria Local,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso Herramientas de Análisis Macroeconómico,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Revenue Management En Hoteles,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Programa Sport Ticketing,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,2 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado Liderazgo En Marketing Y Patrocinio Deportivo,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura En Gestión De Negocios,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Finanzas Personales y Familiares,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Programa De Marketing Digital Deportivo,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,2 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Sports Governance,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Ergonomía y Accesibilidad,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Gestión De Proyectos Y Políticas Públicas,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Big Data,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,CURSO DE ANÁLISIS DE NEGOCIOS (Business Analysis),MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso Herramientas de Análisis de Microeconomía,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso de Comercio Internacional,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Inteligencia de Negocios (BI),MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Management de Negocios Digitales,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Programa de Formación en Prevención de Lavado de Activos,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Presencial,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso Básico de Economía Internacional,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso de Auditoría de Marketing,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,7 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,DIPLOMATURA EN LIDERAZGO COACH E INTELIGENCIA EMOCIONAL,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Gestión De La Carga De Trabajo En Fútbol,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Gestión De La Empresa Familiar,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso: Liderar en el Siglo XXI,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Gerenciamiento Gastronómico,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Human Resources Bussiness Partner (HRBP),MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en People Analytics,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso: Product Management,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso Tecnologías de Almacenamiento y Procesamiento de Datos,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Gestión de Proyectos Digitales,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en BigData y NoSQL,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso de Economía Política Global,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso Explotación de Datos desde Móviles y Wearables,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Fundamentos de las Inversiones en Bolsa y Criptomoneda,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Administración de Ventas,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso de Estrategias de Marketing Integrado,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Gestión de La Competitividad En Organizaciones - Virtual,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Gestión Integral y Liderazgo de Cambios Organizacionales,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Agile Management,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en estrategias para la competitividad,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Plataformas de Gestión Empresarial,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Operador de Exportaciones,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en NET PROMOTER SCORE - NPS,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida",8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en fortalecimiento de la gestión en organizaciones,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,1MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Gestión de La Competitividad En Organizaciones - PH,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Presencial Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso de Marketing Internacional,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Desarrollo de Atributos Exponenciales para Organizaciones,MANAGEMENT Y FINANZAS,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Educación (CCC),EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,2,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Profesorado Universitario para el Nivel Secundario y Superior,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,"1,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Psicopedagogía,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Educación y Nuevas Tecnologías,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura Universitaria en Promoción Comunitaria en Niñez y Adolescencia,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,"2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Maestría en Innovación Educativa,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,2,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,"Especialización En Derecho De Familia, Niñez Y Adolescencia",EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,1,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado Barça Coach Academy,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Diseño De Aulas Creativas,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,"Diplomatura en Abordaje Psicosocial de las Nuevas Infancias, Adolescencias y Familias",EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura En Educación Domiciliaria Y Hospitalaria,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Analista Tactico De Futbol,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Gestión Del Bienestar Emocional Y Del Estres En Las Organizaciones,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Educación Positiva Aplicada,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Entrenamiento En Deportes De Equipo,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Tecnología para la Educación,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Psicología Del Deporte Para El Desarrollo De Atletas,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Médico De Equipos-Conceptos Esenciales,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Educación Hospitalaria y Domiciliaria con Orientación en Inclusión Educativa,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Neurobiología Y Rendimiento Deportivo,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Nutrición Deportiva,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Educación Positiva,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura En Innovacion Educativa,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Psicología De Alto Rendimiento Deportivo,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,"Liderazgo, Ética Y Responsabilidad Social",EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado","Presencial Home, Educación Distribuida Home",4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Nutrición Deportiva En Fútbol,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Planificación y Dirección de Proyectos,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Entrenamiento De La Fuerza,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura En Transformacion Y Liderazgo Educativo,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Psicología Aplicada a Niños y Adolescentes,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en competencias para liderar la innovación educativa,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Comunicación En Organizaciones Deportivas,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Psicologia Para El Entrenador En El Alto Rendimiento,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en competencias para gestionar la transformación en los entornos de aprendizaje,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Enfoque lúdico del Fútbol Infantil,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,CERTIFICADO EN MINDFULNESS E INTELIGENCIA EMOCIONAL PARA LÍDERES CONSCIENTES,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso de Diseño y Desarrollo de Comunidades Virtuales de Aprendizaje,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Inteligencia y Creatividad en el Proceso de Formación,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Preparación física y calendario: Aplicaciones prácticas,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Evaluación del Aprendizaje,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Gestión del Conocimiento,EDUCACION Y PSICOLOGIA,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Criminología Y Seguridad,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida , Presencial Home Rio IV , Presencial Home",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Relaciones Internacionales,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida , Presencial",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Abogacía,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado","Presencial Home, Presencial Home Rio IV , Presencial , Educación Distribuida Home","4,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Ciencia Política Y Gobierno,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida",4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Escribanía,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida",1,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura en Desarrollo de Negocios Inmobiliarios,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",2,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Licenciatura En Administración Pública,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Presencial Home Rio IV,4,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,"Martillero, Corredor Público Y Corredor Inmobiliario",DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado","Educación Distribuida Home, Presencial , Educación Distribuida","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Procurador,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home",3,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura Universitaria En Administración Y Gestión De Políticas Públicas,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado","Educación Distribuida, Educación Distribuida Home","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Tecnicatura en Investigación de la Escena del Crimen,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado","Educación Distribuida Home, Educación Distribuida","2,5",255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Maestría En Derecho Procesal,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado","Presencial, Educación Distribuida Home",2,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Maestría en Federalismo,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Presencial,2,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Maestría en Federalismo,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Presencial,2,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Maestría en Criminología y Ciencias Forenses,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado","Presencial, Educación Distribuida Home",1,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Maestría En Derecho Internacional,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,1,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Especialización en Cibercrimen,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Presencial,1,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Especialización en Derecho Penal Tributario y Económico,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso de Seguridad Privada - Nivel II,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura En Derecho De Ejecución Penal,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Administración de Justicia,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Gestión de Riesgos del Trabajo,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Presencial,2 DIAS,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Workshop de Negociación de Harvard,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Derecho Digital e IA,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Cooperación E Internacionalización De Gobiernos Locales,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Contratos y Arbitraje Comercial,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso de Sociología Familiar,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,"Certificado en Derecho Laboral y Gestión de la Propiedad Horizontal, Conjuntos Inmobiliarios y Afines",DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Administración de Justicia y Prácticas del Derecho Penal,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado En Derecho Privado Y Notarial Para Jueces De Paz,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Derecho Privado Patrimonial,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Habilidades para Liderar con Equidad de Género,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,"Certificado en Liderazgo, Negociación y Gestión con Perspectiva de Género",DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso: Liderazgo en Gestión de Proyectos Públicos,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Prácticas de Derecho Penal,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso de Seguridad Privada - Nivel I,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Liderazgo Político y Social con Perspectiva de Género,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,"Diplomatura en Gestión de la Comunicación Interna, Cultura y Transformación",DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Sistema Procesal Acusatorio y Nuevas Metodologías de Abordaje en Criminalidad Compleja,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,8 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Diplomatura en Entornos Digitales Accesibles e Inclusión,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,4 MESES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Prevención de Violencia Familiar,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Certificado en Derecho del Ciberconsumidor en la Economía Digital,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Siglo XXI,privada,Cordoba - Buenos Aires,Curso en Derecho de las Relaciones Familiares,DERECHO Y CIENCIAS SOCIALES,"pregrado, grado y posgrado",Educación Distribuida Home,1 MES,255,8,"73,40%",,DAVID
+Universidad Nacional del Nordeste,Publica,Chaco,Arquitectura,Facultad de Arquitectura y Urbanismo,Carrera de Grado,Presencial,6,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Chaco,Diseño Gráfico,Facultad de Arquitectura y Urbanismo,Carrera de Grado,Presencial,4,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Chaco,Licenciatura en Diseño Industrial,Facultad de Arquitectura y Urbanismo,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Chaco,Licenciatura en Artes Combinadas,"Facultad de Artes, Diseño y Ciencias de la Cultura",Carrera de Grado,Presencial,4,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Chaco,Tecnicatura en Gestión y Desarrollo Cultural,"Facultad de Artes, Diseño y Ciencias de la Cultura",Pregrado,Presencial,3,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Chaco,Licenciatura en Gestión y Desarrollo Cultural,"Facultad de Artes, Diseño y Ciencias de la Cultura",Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Tecnicatura en Turismo,"Facultad de Artes, Diseño y Ciencias de la Cultura",Carrera de Grado,Presencial,3,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Turismo,"Facultad de Artes, Diseño y Ciencias de la Cultura",Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Chaco,"Tecnicatura en Diseño de Imagen, Sonido y Multimedia","Facultad de Artes, Diseño y Ciencias de la Cultura",Pregrado,Presencial,3,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Chaco,Ingeniería Agronómica,Facultad de Ciencias Agrarias,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Chaco,Tecnicatura Universitaria en Apicultura,Facultad de Ciencias Agrarias,Pregrado,Presencial,3,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Chaco,Tecnicatura Universitaria en Mecanización Agraria,Facultad de Ciencias Agrarias,Pregrado,Presencial,3,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Contador Público,Facultad de Ciencias Económicas,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Administración,Facultad de Ciencias Económicas,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Economía,Facultad de Ciencias Económicas,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Analista en Relaciones Laborales,Facultad de Ciencias Económicas,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Relaciones Laborales,Facultad de Ciencias Económicas,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Comercio Exterior,Facultad de Ciencias Económicas,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Ingeniería en Agrimensura,Facultad de Ciencias Exactas y Naturales y Agrimensura,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Matemática,Facultad de Ciencias Exactas y Naturales y Agrimensura,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Ciencias Físicas,Facultad de Ciencias Exactas y Naturales y Agrimensura,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Ciencias Químicas,Facultad de Ciencias Exactas y Naturales y Agrimensura,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Ciencias Biológicas,Facultad de Ciencias Exactas y Naturales y Agrimensura,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Analista Programador Universitario,Facultad de Ciencias Exactas y Naturales y Agrimensura,Pregrado,Presencial,3,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Sistemas de Información,Facultad de Ciencias Exactas y Naturales y Agrimensura,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Ingeniería Eléctrica,Facultad de Ciencias Exactas y Naturales y Agrimensura,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Ingeniería en Electrónica,Facultad de Ciencias Exactas y Naturales y Agrimensura,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Bioquímica,Facultad de Ciencias Exactas y Naturales y Agrimensura,Carrera de Grado,Presencial,6,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Profesorado en Matemática,Facultad de Ciencias Exactas y Naturales y Agrimensura,Carrera de Grado,Presencial,4,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Profesorado en Física,Facultad de Ciencias Exactas y Naturales y Agrimensura,Carrera de Grado,Presencial,4,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Profesorado en Cs. Químicas y del Ambiente,Facultad de Ciencias Exactas y Naturales y Agrimensura,Carrera de Grado,Presencial,4,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Profesorado en Biología,Facultad de Ciencias Exactas y Naturales y Agrimensura,Carrera de Grado,Presencial,4,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Ciencias Veterinarias,Facultad de Ciencias Veterinarias,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Tecnicatura en Administración de Empresas,Facultad de Ciencias Veterinarias,Pregrado,Presencial,"2,5",0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Abogacía,Facultad de Derecho y Ciencias Sociales y Políticas,Carrera de Grado,Presencial,6,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Martillero Público y Corredor de Comercio,Facultad de Ciencias Veterinarias,Pregrado,Presencial,2,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Profesorado en Ciencias de la Educación,Facultad de Humanidades,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Ciencias de la Educación,Facultad de Humanidades,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Profesorado en Filosofía,Facultad de Humanidades,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Filosofía,Facultad de Humanidades,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Profesorado en Geografía,Facultad de Humanidades,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Geografía,Facultad de Humanidades,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Profesorado en Historia,Facultad de Humanidades,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Historia,Facultad de Humanidades,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Profesorado en Letras,Facultad de Humanidades,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Letras,Facultad de Humanidades,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Cs. de la Información orientación en Archivología ó Bibliotecología,Facultad de Humanidades,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Archivista,Facultad de Ciencias Veterinarias,Pregrado,Presencial,3,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Bibliotecario,Facultad de Ciencias Veterinarias,Pregrado,Presencial,2,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Profesorado en Educación Inicial,Facultad de Humanidades,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Educación Inicial,Facultad de Humanidades,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Comunicación Social,Facultad de Humanidades,Carrera de Grado,Presencial,4,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Tecnicatura en Periodismo,Facultad de Humanidades,Pregrado,Presencial,3,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Ingeniería Civil,Facultad de Ingeniería,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Ingeniería Electromecánica,Facultad de Ingeniería,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Ingeniería Mecánica,Facultad de Ingeniería,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Medicina,Facultad de Medicina,Carrera de Grado,Presencial,6,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Enfermería,Facultad de Medicina,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Kinesiología y Fisiatría,Facultad de Medicina,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Odontología,Facultad de Odontología,Carrera de Grado,Presencial,5,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Tecnicatura Universitaria en Gestión de Instituciones Universitarias del Área de la Salud,Facultad de Odontología,Carrera de Grado,Presencial,2,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Criminalística,Instituto de Ciencias Criminalísticas y Criminología,Pregrado,Presencial,4,0,11,0%,,DAVID
+Universidad Nacional del Nordeste,Publica,Corrientes,Licenciatura en Seguridad Pública y Ciudadana,Instituto de Ciencias Criminalísticas y Criminología,Carrera de Grado,Presencial,"1,5",0,11,0%,,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Contador Público,Facultad de Ciencias Económica,Carrera de Grado,Presencial-Distancia,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Licenciado en Administración,Facultad de Ciencias Económica,Carrera de Grado,Presencial-Distancia,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Licenciado en Economía,Facultad de Ciencias Económica,Carrera de Grado,Presencial-Distancia,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Doctorado en Desarrollo Territorial,Facultad de Ciencias Económica,Carrera de Posgrado,Presencial-Distancia,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Maestría en Desarrollo y Gestión Territorial,Facultad de Ciencias Económica,Maestría,Presencial-Distancia,4 semestres,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Especialización en Tributación,Facultad de Ciencias Económica,Especialización,Presencial,3 semestres,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Especialización en Sindicatura Concursal,Facultad de Ciencias Económica,Especialización,Presencial,3 semestres,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Especialización en Dirección Estratégica de Recursos Humanos,Facultad de Ciencias Económica,Especialización,Presencial,3 semestres,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Especialización en Gestión de Pequeñas y Medianas Empresas,Facultad de Ciencias Económica,Especialización,Presencial,3 semestres,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Técnico Universitario en Gestión Agropecuaria y Agroalimentaria,Facultad de Agronomía y Veterinaria,Carrera de Pregrado,Presencial,"2,5",13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Ingeniero Agrónomo,Facultad de Agronomía y Veterinaria,Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Médico Veterinario,Facultad de Agronomía y Veterinaria,Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Maestría en Anatomía y Fisiología Veterinaria,Facultad de Agronomía y Veterinaria,Maestría,Presencial,2,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Maestría en Ciencias Agropecuarias,Facultad de Agronomía y Veterinaria,Maestría,Presencial,3,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Especialización en Clínica Médica de Perros y Gatos,Facultad de Agronomía y Veterinaria,Especialización,Presencial,2,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Especialización en Salud y Producción Porcina,Facultad de Agronomía y Veterinaria,Especialización,Presencial,4,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Diplomatura Superior en Agricultura de Precisión,Facultad de Agronomía y Veterinaria,Diplomatura,Presencial-Virtual,9 meses,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Diplomatura Superior en Agroecología,Facultad de Agronomía y Veterinaria,Diplomatura,Presencial-Virtual,7 meses,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Analista en Computación,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Pregrado,Presencial,3,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Analista Químico,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Pregrado,Presencial,3,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Técnico de Laboratorio -,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Pregrado,Presencial,3,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Licenciatura en Cs. Biológicas -,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Grado,Presencial,3,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Licenciatura en Cs. de la Computación,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Licenciatura en Física -,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Licenciatura en Geología -,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Licenciatura en Matemática -,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Grado,Presencial,4,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Licenciatura en Química -,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Microbiología -,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Profesorado en Ciencias Biológicas -,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Grado,Presencial,4,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Profesorado en Cs. de la Computación -,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Profesorado en Física -,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Profesoado en Matemática -,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Grado,Presencial,4,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Profesorado en Química -,"Ciencias Exactas, Físico-Químicas y Naturales",Carrera de Grado,Presencial,4,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Abogacía,"Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Grado,Presencial,6,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,"Profesorado en Ciencias Jurídicas, Políticas y Sociales","Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Grado,Presencial,4,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Lic. En Ciencia Política,"Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Doctorado en Ciencias Sociales,"Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Posgrado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Maestría en Juego,"Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Posgrado,Presencial,3,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Maestría en Ciencias Sociales,"Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Posgrado,Presencial,3,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Maestría en Lengua Inglesa,"Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Posgrado,Presencial,3,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Maestría en Lengua Inglesa,"Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Posgrado,Presencial,3,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Especialización en Docencia en Educación Superior,"Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Posgrado,Presencial,2,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Especialización en Docencia en Inclusión Educativa y Discapacidad,"Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Posgrado,Presencial,4,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Diplomatura Superior: Enseñar y aprender en entornos virtuales,"Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Posgrado,Virtual,3,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Diplomatura Superior: Enseñar y aprender en entornos virtuales,"Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Posgrado,Virtual,3,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Diplomatura Superior: Psicopedagogía y Educación Inclusiva,"Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Posgrado,Virtual,3,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,"Diplomatura Superior: Fortalecimiento de Organizaciones Sociales, Políticas y Territoriales","Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Posgrado,Virtual,3,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Diplomatura Superior: Educación Sexual Integral: Formando profesionales capaces de abordarla.,"Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Posgrado,Presencial - Virtual,8 meses,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Diplomatura será Diplomado Superior en Educación en historia y su praxis en diferentes niveles educativos,"Departamento de Ciencias Jurídicas, Políticas y Sociales",Carrera de Posgrado,Virtual,1 mes,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,INGENIERÍA QUÍMICA,Ingeniería,Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,INGENIERÍA MECÁNICA,Ingeniería,Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,INGENIERÍA EN TELECOMUNICACIONES,Ingeniería,Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,ING. EN ENERGÍAS RENOVABLES,Ingeniería,Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,ING. ELECTRICISTA,Ingeniería,Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,ING. EN ENERGÍA ELÉCTRICA,Ingeniería,Carrera de Grado,Presencial,5,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Doctorado en Ciencias de la Ingeniería,Ingeniería,Carrera de Posgrado,Presencial,2,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Maestría en Ciencias de la Ingeniería,Ingeniería,Carrera de Posgrado,Presencial,2,13,5,"22,41%",,DAVID
+Universidad Nacional de Río Cuarto,Publica,Cordoba,Diplomatura Superior en Docencia Universitaria en Ingeniería (Segunda Cohorte),Ingeniería,Carrera de Posgrado,Presencial,2,13,5,"22,41%",,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Arquitectura,"Facultad de Arquitectura,",Carrera de Grado,PRESENCIAL,6,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Diseño Industrial,"Facultad de Arquitectura,",Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Tecnicatura Universitaria en Gestión Cultural,"Facultad de Arquitectura,",Carrera de Grado,PRESENCIAL,"2,5",0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Lic. en Gestión Cultural,"Facultad de Arquitectura,",Carrera de Grado,PRESENCIAL,2,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,CCC (Ciclo de Complementación Curricular),"Facultad de Arquitectura,",Carrera de Grado,PRESENCIAL,3,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Tecnicatura Universitaria en Comunicación Audiovisual,"Facultad de Arquitectura,",Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Contador/a Público/a,FACULTAD DE CIENCIAS SOCIALES Y ECONOMICAS,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Administración,FACULTAD DE CIENCIAS SOCIALES Y ECONOMICAS,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Economía,FACULTAD DE CIENCIAS SOCIALES Y ECONOMICAS,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Profesorado Universitario en Economía,FACULTAD DE CIENCIAS SOCIALES Y ECONOMICAS,Carrera de Grado,PRESENCIAL,3,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Turismo,FACULTAD DE CIENCIAS SOCIALES Y ECONOMICAS,Carrera de Grado,PRESENCIAL,3,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Tecnicatura Universitaria en Turismo,FACULTAD DE CIENCIAS SOCIALES Y ECONOMICAS,Carrera de Pregrado,PRESENCIAL,3,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Tecnicatura Universitaria en Comercialización,FACULTAD DE CIENCIAS SOCIALES Y ECONOMICAS,Carrera de Pregrado,PRESENCIAL,3,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Tecnicatura Universitaria en Comercio Exterior,FACULTAD DE CIENCIAS SOCIALES Y ECONOMICAS,Carrera de Pregrado,PRESENCIAL,3,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Tecnicatura Universitaria Contable,FACULTAD DE CIENCIAS SOCIALES Y ECONOMICAS,Carrera de Pregrado,PRESENCIAL,6,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Tecnicatura Universitaria en Periodismo Digital,FACULTAD DE CIENCIAS SOCIALES Y ECONOMICAS,Carrera de Pregrado,PRESENCIAL,"5,5",0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Bioquímica,FACULTAD DE CIENCIAS EXACTAS Y NATURALES,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Ciencias Biológicas,FACULTAD DE CIENCIAS EXACTAS Y NATURALES,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Profesorado en Ciencias Biológicas,FACULTAD DE CIENCIAS EXACTAS Y NATURALES,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Ciencias Matemáticas,FACULTAD DE CIENCIAS EXACTAS Y NATURALES,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Profesorado en Matemática,FACULTAD DE CIENCIAS EXACTAS Y NATURALES,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Física,FACULTAD DE CIENCIAS EXACTAS Y NATURALES,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Profesorado en Física,FACULTAD DE CIENCIAS EXACTAS Y NATURALES,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Química,FACULTAD DE CIENCIAS EXACTAS Y NATURALES,Carrera de Grado,PRESENCIAL,3,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Profesorado en Química,FACULTAD DE CIENCIAS EXACTAS Y NATURALES,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Tecnicatura en Ciencia de Datos,FACULTAD DE CIENCIAS EXACTAS Y NATURALES,Carrera de Pregrado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Ingeniería Agronómica,Facultad de Ciencias Agrarias,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Ciencia y Tecnología de Alimentos,Facultad de Ciencias Agrarias,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Producción Animal,Facultad de Ciencias Agrarias,Carrera de Grado,PRESENCIAL,"2,5",0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Producción Vegetal,Facultad de Ciencias Agrarias,Carrera de Grado,PRESENCIAL,"2,5",0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Tecnicatura Universitaria en Producciones Vegetales IntensivasAD (a distancia),Facultad de Ciencias Agrarias,Carrera de Pregrado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Tecnicatura Universitaria en Industrias de Bebidas,Facultad de Ciencias Agrarias,Carrera de Pregrado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Enfermería,FACULTADDE SALUD Y TRABAJO SOCIAL,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Trabajo Social,FACULTADDE SALUD Y TRABAJO SOCIAL,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Terapia Ocupacional,FACULTADDE SALUD Y TRABAJO SOCIAL,Carrera de Grado,PRESENCIAL,3,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Abogacía,FACULTAD DE DERECHO,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Martillero y Corredor Público AD (a distancia),FACULTAD DE DERECHO,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Ciencia Política,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Filosofía,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Profesorado en Filosofía,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Geografía,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Profesorado en Geografía,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Historia,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Profesorado en Historia,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Letras,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Profesorado en Letras,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Sociología,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,3,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Profesorado Universitario en Sociología,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Antropología,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Tecnicatura Universitaria en Antropología,FACULTAD DE HUMANIDADES,Carrera de Pregrado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Ciencias de la Educación,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Profesorado Universitario en Cs. de la Educación,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Lengua Inglesa,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Profesorado Universitario de Inglés,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,4,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Profesorado Universitario de Lengua Italiana,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,3,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Licenciatura en Bibliotecología y Documentación CCC (Ciclo de Complementación Curricular) AD (a distancia) 2 años,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,3,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Profesorado en Bibliotecología y Documentación,FACULTAD DE HUMANIDADES,Carrera de Grado,PRESENCIAL,3,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Bibliotecario/aEscolar,FACULTAD DE HUMANIDADES,Carrera de Pregrado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Bibliotecario/a Escolar,FACULTAD DE HUMANIDADES,Carrera de Pregrado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Bibliotecología,FACULTAD DE HUMANIDADES,Carrera de Pregrado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Ingeniería Eléctrica,Facultad de Ingeniería,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Ingeniería Electromecánica,Facultad de Ingeniería,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Ingeniería Electrónica,Facultad de Ingeniería,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Ingeniería en Alimentos,Facultad de Ingeniería,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Ingeniería en Computación,Facultad de Ingeniería,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Ingeniería en Informática,Facultad de Ingeniería,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Ingeniería Industrial,Facultad de Ingeniería,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Ingeniería en Materiales,Facultad de Ingeniería,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Ingeniería Mecánica,Facultad de Ingeniería,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Ingeniería Química,Facultad de Ingeniería,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Lic. en Psicología,Facultad de Psicología,Carrera de Grado,PRESENCIAL,5,0,10,0%,,DAVID
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA,Publica,Buenos Aires,Medicina,FACULTAD DE MEDICINA,Carrera de Grado,PRESENCIAL,6,0,10,0%,,DAVID
