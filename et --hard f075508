@@ -1,0 +1,14 @@
+[33m486f9ff[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: pull origin main: Fast-forward
+[33m1cbdac8[m HEAD@{1}: rebase (finish): returning to refs/heads/main
+[33m1cbdac8[m HEAD@{2}: rebase (continue): Simetria de la distribuciones
+[33mf075508[m HEAD@{3}: pull --rebase origin main (start): checkout f075508a0879593cfd2a2b54ff29794177b2a2bb
+[33ma9d7f05[m HEAD@{4}: rebase (finish): returning to refs/heads/main
+[33ma9d7f05[m HEAD@{5}: rebase (continue): Simetria de la distribuciones
+[33m60fdfbf[m HEAD@{6}: pull origin main --rebase (start): checkout 60fdfbf55f63c52c3ecaf1fc2619b4173de0c802
+[33m4ffecad[m HEAD@{7}: commit: Simetria de la distribuciones
+[33mbfa24da[m HEAD@{8}: commit: subir Analisi Descriptivos de Variables
+[33m9403d98[m HEAD@{9}: commit: calculo en pandas de estas columnas duracionAnios, cantidadCarrerasVirtuales, cantidadAreas
+[33m4880849[m HEAD@{10}: commit: Corrección de archivo limpieza.ipynb y otros cambios
+[33md407ee1[m HEAD@{11}: pull origin main: Merge made by the 'ort' strategy.
+[33m3ca65c8[m HEAD@{12}: commit: agregue analisi descriptivo + simetria de las distribuciones ak notebook de limpieza de datos
+[33m615293a[m HEAD@{13}: clone: from https://github.com/educacion-digital-ar/inclusion-educativa-digital.git
